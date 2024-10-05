@@ -15,6 +15,9 @@ and then use the script:
   ./bf2png.lisp /path/to/file.bf file.png
 #+end_src
 
+Script requires SBCL, a Common Lisp implementation, and ZPNG, PNG library (bundled with bf2png, see zpng submodule).
+Change the ~#!sbcl --script~ to the line for the respective CL implementation if you want to use that.
+
 * Example
 See [[./os.png]] for the example of the output.
 It's based on the [[https://github.com/bf-enterprise-solutions/os.bf][os.bf code (by Brainfuck Enterprise Solutions)]].
