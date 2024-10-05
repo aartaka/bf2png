@@ -1,0 +1,20 @@
+#+TITLE:bf2png: Turn Brainfuck PNG into a PNG
+
+This project is inspired by image-based malware analysis.
+What if we turned Brainfuck code into images, just for the fun of it.
+That's what bf2png does.
+
+* Getting Started
+Clone the repo:
+#+begin_src sh
+  git clone --recursive https://github.com/aartaka/bf2png
+#+end_src
+
+and then use the script:
+#+begin_src sh
+  ./bf2png.lisp /path/to/file.bf file.png
+#+end_src
+
+* Example
+See [[./os.png]] for the example of the output.
+It's based on the [[https://github.com/bf-enterprise-solutions/os.bf][os.bf code (by Brainfuck Enterprise Solutions)]].
