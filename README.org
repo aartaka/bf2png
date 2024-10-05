@@ -1,4 +1,4 @@
-#+TITLE:bf2png: Turn Brainfuck PNG into a PNG
+#+TITLE:bf2png: Turn Brainfuck code into a PNG
 
 This project is inspired by image-based malware analysis.
 What if we turned Brainfuck code into images, just for the fun of it.
