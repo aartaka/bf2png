@@ -1,7 +1,7 @@
 #+TITLE:bf2png: Turn Brainfuck code into a PNG
 
 This project is inspired by image-based malware analysis.
-What if we turned Brainfuck code into images, just for the fun of it.
+What if we turned Brainfuck code into images, just for the fun of it?
 That's what bf2png does.
 
 * Getting Started
