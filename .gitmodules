@@ -1,0 +1,3 @@
+[submodule "zpng"]
+	path = zpng
+	url = https://github.com/xach/zpng
